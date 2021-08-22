@@ -1,0 +1,246 @@
+{
+  "drinks": [
+    {
+      "id": "11007",
+      "name": "Margarita",
+      "description": "A Refreshing Tequila-Based Classic",
+      "tags": ["IBA", "Contemporary Classic", "Apéritif"],
+      "isAlcoholic": true,
+      "glass": "Margarita Glass",
+      "instructions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+      "ingredients": [
+        "1 1/2 oz Tequila",
+        "1/2 oz Triple Sec",
+        "1 oz Lime Juice",
+        "Salt"
+      ]
+    },
+    {
+      "id": "11005",
+      "name": "Dry Martini",
+      "description": "The Ultimate Dinner Cocktail",
+      "tags": ["IBA", "Classic", "Apéritif", "Christmas"],
+      "isAlcoholic": true,
+      "glass": "Martini Glass",
+      "instructions": "Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+      "drinkThumb": "https:www.thecocktaildb.com/images/media/drink/6ck9yi1589574317.jpg",
+      "ingredients": [
+        "2 oz London Dry Gin",
+        "1 barspoon Dry Vermouth",
+        "2 dashes Orange Bitters",
+        "Olives"
+      ]
+    },
+    {
+      "id": "11008",
+      "name": "Long Island Iced Tea",
+      "description": "Hope You Don't Have to Be Up Early...",
+      "tags": ["IBA", "Contemporary Classic", "Strong"],
+      "isAlcoholic": true,
+      "glass": "Highball",
+      "instructions": "Mix all contents in a highball glass and sitr gently. Add dash of Coca-Cola for the coloring and garnish with lemon or lime twist.",
+      "drinkThumb": "https:/www.thecocktaildb.com/images/media/drink/wx7hsg1504370510.jpg",
+      "ingredients": [
+        "1/2 oz London Dry Gin",
+        "1/2 oz Vodka",
+        "1/2 oz Tequila",
+        "1/2 oz White Rum",
+        "1/2 oz Triple Sec",
+        "3/4 oz Lemon Juice",
+        "1 dash Coca Cola"
+      ]
+    },
+    {
+      "id": "11690",
+      "name": "Mai Tai",
+      "description": "A Delicous Tiki Drink",
+      "tags": ["IBA", "Contemporary Classic", "Tiki"],
+      "isAlcoholic": true,
+      "glass": "Tumbler",
+      "instructions": "Shake all ingredients with ice. Strain into glass. Garnish and serve with straw.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/twyrrp1439907470.jpg",
+      "ingredients": [
+        "2 oz Jamaican Rum",
+        "1/2 oz Triple Sec",
+        "1/2 oz Orgeat",
+        "3/4 oz Lime Juice",
+        "Mint",
+        "Crushed Ice"
+      ]
+    },
+    {
+      "id": "12402",
+      "name": "Tom Collins",
+      "description": "A Refreshing Gin-Based Drink",
+      "tags": ["IBA", "Classic", "Strong", "Fresh"],
+      "isAlcoholic": true,
+      "glass": "Collins Glass",
+      "instructions": "In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a collins glass alomst filled with ice cubes. Add the club soda. Stir and garnish with the cherry and the orange slice.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/7cll921606854636.jpg",
+      "ingredients": [
+        "2 oz London Dry Gin",
+        "1 oz Lemon Juice",
+        "1 tablespoon Powdered Sugar",
+        "3 oz Club Soda",
+        "1 Maraschino Cherry",
+        "1 Orange Wheel"
+      ]
+    },
+    {
+      "id": "11011",
+      "name": "Mojito",
+      "description": "A Delicously Minty Treat",
+      "tags": ["IBA", "Contemporary Classic", "Vegan"],
+      "isAlcoholic": true,
+      "glass": "Highball",
+      "instructions": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with cracked ice. Pour the rum and top with soda water. Garnish and serve with straw.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/metwgh1606770327.jpg",
+      "ingredients": [
+        "2-3 oz Light rum",
+        "Juice of 1 lime",
+        "2 tsp sugar",
+        "2-4 Mint",
+        "Soda water"
+      ]
+    },
+    {
+      "id": "11012",
+      "name": "Old Fashioned",
+      "description": "Whisky Fans, This One's For You",
+      "tags": ["IBA", "Classic", "Savory"],
+      "isAlcoholic": true,
+      "glass": "Old-fashioned glass",
+      "instructions": "Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Garnish with orange twist, and a cocktail cherry.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg",
+      "ingredients": [
+        "4.5 cL Bourbon",
+        "2 dashed Angostura bitters",
+        "1 cube Sugar",
+        "dash Water"
+      ]
+    },
+    {
+      "id": "11013",
+      "name": "Daiquiri",
+      "description": "A Classic Cocktail From Cuba",
+      "tags": ["IBA", "Classic", "Beach"],
+      "isAlcoholic": true,
+      "glass": "Cocktail glass",
+      "instructions": "Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/mrz9091589574515.jpg",
+      "ingredients": [
+        "1 1/2 oz Light rum",
+        "Juice of 1/2 Lime",
+        "1 tsp Powdered sugar"
+      ]
+    },
+    {
+      "id": "11014",
+      "name": "Whiskey Sour",
+      "description": "Packs a Punch in Winter, Quenches Your Thirst In Summer",
+      "tags": ["IBA", "Classic", "Sour"],
+      "isAlcoholic": true,
+      "glass": "Old-fashioned glass",
+      "instructions": "Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg",
+      "ingredients": [
+        "2 oz Blended whiskey",
+        "Juice of 1/2 Lemon",
+        "1/2 tsp Powdered sugar",
+        "1Cherry",
+        "1/2 slice Lemon"
+      ]
+    },
+    {
+      "id": "11015",
+      "name": "Negroni",
+      "description": "A Real Treat For Fans Of Bitter",
+      "tags": ["IBA", "Classic", "Strong"],
+      "isAlcoholic": true,
+      "glass": "Old-fashioned glass",
+      "instructions": "Stir into glass over ice, garnish and serve.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg",
+      "ingredients": ["1 oz Gin", "1 oz Campari", "1 oz Sweet Vermouth"]
+    },
+    {
+      "id": "11016",
+      "name": "Butterfly Effect",
+      "description": "Let This One Surprise You",
+      "tags": ["IBA", "Sweet", "Summer"],
+      "isAlcoholic": true,
+      "glass": "Hurricane glass",
+      "instructions": "Grab your boston tin, fill it with cubes ice and then simply chuck in all your ingredients apart from your lemonade. Now it’s time to shake what your mama gave you until all your ingredients are blended to perfection.Add some cubes of ice to your hurricane glass, give them a swill to cool the whole thing down and then strain your raspberry vodka cocktail of wonder into the glass. Top with lemonade and chuck a sprig of mint on top for garnish. You can either get drinking at this point or go and try and grab a few butterflies to finish, the choice really is yours.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/ht3hnk1619704289.jpg",
+      "ingredients": [
+        "50 ml Raspberry Vodka",
+        "25 ml Cranberry Juice",
+        "25 ml Lemonade",
+        "10 ml Blue Curacao",
+        "10 ml Sugar Syrup",
+        "Dash Lime Juice",
+        "Sprig Mint"
+      ]
+    },
+    {
+      "id": "11017",
+      "name": "Apple Highball",
+      "description": "A Spicy Apple Cocktail",
+      "tags": ["IBA", "Classy", "Spicy"],
+      "isAlcoholic": true,
+      "glass": "Highball",
+      "instructions": "Add ice in a highball glass. Rub a wedge of fresh lime around rim and place it in the glass. Add a shot of Apple schnapps, a shot of Courvoisier and top up with ginger ale.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/66mt9b1619695719.jpg",
+      "ingredients": [
+        "Chopped Lime",
+        "1 shot Apple Schnapps",
+        "1 shot Cognac",
+        "Top Ginger Ale"
+      ]
+    },
+    {
+      "id": "11018",
+      "name": "The Galah",
+      "description": "Did Someone Say Exotic?",
+      "tags": ["Pink", "Tropical", "Summer"],
+      "isAlcoholic": true,
+      "glass": "Collins glass",
+      "instructions": "Mix together the alcoholic portions and top with Pineapple and Lime juice.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/sy7y6r1614775067.jpg",
+      "ingredients": [
+        "1 shot Dark Rum",
+        "1 shot Campari",
+        "1/2 shot Creme De Banane",
+        "Top Pineapple Juice",
+        "Top Lime Juice"
+      ]
+    },
+    {
+      "id": "11019",
+      "name": "Frosé",
+      "description": "For Those With A Sweet Tooth",
+      "tags": ["Summer", "Frozen", "Sweet"],
+      "isAlcoholic": true,
+      "glass": "Cocktail glass",
+      "instructions": "Pour rosé into a 13x9 inch pan and freeze until almost solid (it won't completely solidify due to the alcohol), at least 6 hours. Meanwhile, bring sugar and ½ cup water to a boil in a medium saucepan; cook, stirring constantly, until sugar dissolves, about 3 minutes. Add strawberries, remove from heat, and let sit 30 minutes to infuse syrup with strawberry flavor. Strain through a fine-mesh sieve into a small bowl (do not press on solids); cover and chill until cold, about 30 minutes. Scrape rosé into a blender. Add lemon juice, 3½ ounces strawberry syrup, and 1 cup crushed ice and purée until smooth. Transfer blender jar to freezer and freeze until frosé is thickened (aim for milkshake consistency), 25–35 minutes. Blend again until frosé is slushy. Divide among glasses. Do Ahead: Rosé can be frozen 1 week ahead.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/b4cadp1619695347.jpg",
+      "ingredients": [
+        "750 ml Rosé",
+        "1/2 cup Sugar",
+        "8 oz Strawberries",
+        "2-3 oz Lemon Juice"
+      ]
+    },
+    {
+      "id": "11020",
+      "name": "Chocolate Black Russian",
+      "description": "Nazdrovje!",
+      "tags": ["Sweet", "Winter", "Dessert"],
+      "isAlcoholic": true,
+      "glass": "Champagne Flute",
+      "instructions": "Combine all ingredients in an electric blender and blend at a low speed for a short length of time. Pour into a chilled champagne flute and serve.",
+      "drinkThumb": "https://www.thecocktaildb.com/images/media/drink/yyvywx1472720879.jpg",
+      "ingredients": ["1 oz Kahlua", "1/2 oz Vodka", "5 oz Chocolate ice-cream"]
+    }
+  ]
+}

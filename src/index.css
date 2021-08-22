@@ -1,13 +1,182 @@
-body {
+@import "https://fonts.googleapis.com/css2?family=Tajawal:wght@300;400;500;600;700&display=swap";
+
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Tajawal", serif;
+  color: #333;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.clearfix {
+  overflow: auto;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 1024px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.active {
+  font-weight: bold;
+}
+
+.navbar h1 {
+  color: #944bbb;
+}
+
+.navbar .links {
+  margin-left: auto;
+}
+
+.navbar a {
+  color: #944bbb;
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #aa7bc3;
+}
+
+.content {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+.search-bar input {
+  position: relative;
+  min-width: 200px;
+  border-radius: 6px;
+  border: 1px solid #944bbb;
+  color: #aa7bc3;
+  text-indent: 4px;
+  outline: none;
+}
+
+::placeholder {
+  color: #aa7bc3;
+}
+
+.grid {
+  padding: 20px 0;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+}
+
+.cocktail-list-item {
+  color: white;
+  background-color: #dba8ac;
+  border-radius: 6px;
+  padding: 1rem;
+  text-align: center;
+  font-family: sans-serif;
+  grid-auto-flow: row dense;
+  transition: transform 0.2s;
+}
+
+.cocktail-list-item:hover {
+  opacity: 90%;
+  transform: scale(1.05);
+}
+
+.cocktail-list-item img {
+  cursor: pointer;
+  max-width: 80%;
+  border-radius: 4px;
+}
+
+.cocktail-list-item h4 {
+  cursor: pointer;
+}
+
+.favorite-button {
+  cursor: pointer;
+}
+
+.favorited {
+  fill: gold;
+}
+
+.error-message {
+  margin-top: 20px;
+}
+
+.back-button {
+  margin-bottom: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s;
+  text-align: left;
+}
+
+.back-button:hover {
+  font-size: 18px;
+}
+
+.cocktail-details {
+  background-color: #dba8ac;
+  border-radius: 4px;
+  padding-bottom: 20px;
+}
+
+.cocktail-details img {
+  max-width: 40%;
+  border-radius: 4px;
+  margin: 20px 0 0 0;
+}
+
+.cocktail-details h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.cocktail-details h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.cocktail-details p {
+  margin: 0 20px 20px 20px;
+}
+
+.cocktail-details ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0 20px 20px 20px;
+}
+
+.about-container {
+  background-color: #dba8ac;
+  border-radius: 6px;
+  padding: 20px;
+  position: relative;
+}
+
+.about-img {
+  float: left;
+  max-width: 300px;
+  border-radius: 6px;
+  margin-right: 20px;
+}
+
+.about-content {
+  text-align: left;
+}
+
+@media screen and (max-width: 424px) {
+  .cocktail-details {
+    font-size: 12px;
+  }
 }
